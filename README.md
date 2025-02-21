@@ -27,7 +27,7 @@
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
 * TS. **Nguyễn Vinh Tiệp** - *tiepnv@uit.edu.vn*
-
+* KS. **Trương Quốc Trường** - *truongtq@uit.edu.vn*
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
