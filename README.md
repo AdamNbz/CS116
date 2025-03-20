@@ -34,6 +34,9 @@
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 23520131      | Nguyễn Võ Ngọc Bảo     |[AdamNbz](https://github.com/AdamNbz)                 |23520131@gm.uit.edu.vn   |
+| 2      | 23520213      | Vũ Việt Cương          |                                                      |23520213@gm.uit.edu.vn   |
+| 3      | 22520093      | Nguyễn Xuân Bách       |                                                      |22520093@gm.uit.edu.vn   |
+| 4      | 23520974      | Ngô Phương Nam         |                                                      |23520974@gm.uit.edu.vn   |
 
 
 ## ĐỒ ÁN MÔN HỌC
