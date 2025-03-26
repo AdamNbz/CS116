@@ -40,4 +40,4 @@
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-Đồ án Nhóm: ĐÁNH GIÁ MÔ HÌNH MÁY HỌC DỰA TRÊN BÀI TOÁN ĐỊNH GIÁ ĐỘNG.
+Đồ án Nhóm: Dynamic Pricing Classification
