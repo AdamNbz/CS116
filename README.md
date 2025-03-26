@@ -40,4 +40,4 @@
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-Đồ án Nhóm: Developing a dynamic pricing model to optimize ride fares based on Real-Time Market Conditions.
+Đồ án Nhóm: ĐÁNH GIÁ MÔ HÌNH MÁY HỌC DỰA TRÊN BÀI TOÁN ĐỊNH GIÁ ĐỘNG (DYNAMIC PRICING).
