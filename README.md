@@ -35,9 +35,9 @@
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
 | 1      | 23520131      | Nguyễn Võ Ngọc Bảo     |[AdamNbz](https://github.com/AdamNbz)                 |23520131@gm.uit.edu.vn   |
 | 2      | 23520213      | Vũ Việt Cương          |[Kun05-AI](https://github.com/Kun05-AI)               |23520213@gm.uit.edu.vn   |
-| 3      | 23520974      | Ngô Phương Nam         |                                                      |23520974@gm.uit.edu.vn   |
+| 3      | 23520974      | Ngô Phương Nam         |[ngonam1601](https://github.com/ngonam1601)           |23520974@gm.uit.edu.vn   |
 
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-Đồ án Nhóm: Dynamic Pricing Classification
+Đồ án Nhóm: Russian Car Plates Prices Prediction
