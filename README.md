@@ -40,4 +40,4 @@
 
 ## ĐỒ ÁN MÔN HỌC
 <a name="doan"></a>
-Đồ án Nhóm: Russian Car Plates Prices Prediction
+Đồ án Nhóm: Car Prices Prediction
